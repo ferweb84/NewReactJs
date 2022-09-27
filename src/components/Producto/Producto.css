@@ -1,0 +1,13 @@
+
+.Producto {
+  
+    background-color: lightgray;
+    text-align: center;
+    justify-content: center;
+    padding: 60px;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 20%;
+    margin: 20px;
+ 
+}
