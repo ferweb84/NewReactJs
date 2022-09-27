@@ -1,0 +1,10 @@
+.Count{
+    justify-content: center;
+    background-color: rgb(192, 57, 8);
+    text-align: center;
+    padding: 1rem;
+    border-radius: 5px;
+    margin: 10px;
+    width: 400px;
+
+}
