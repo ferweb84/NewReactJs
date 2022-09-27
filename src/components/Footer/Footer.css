@@ -1,0 +1,30 @@
+.footer{
+    background-color: rgb(216, 98, 2);
+    color: white;
+    border-color: black;
+    font-size:20px;
+    border-radius: 10px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.btn_twitter{
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+}
+.btn_instagram{
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+}
+.btn_facebook{
+    padding: 5px;
+    width:50px;
+    height: 50px;
+}
+.btn_github{
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+}
