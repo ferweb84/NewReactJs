@@ -10,7 +10,7 @@ const Producto = (props) => {
         <p>Cantidad en Stock {props.cantidad} unidades</p>
         <p>Precio:{props.precio}</p>
         <p>Talle {props.talle}</p>
-        <img src = {props.img} className='imangen'/>
+        <img src = {props.img} className='img'/>
     </div>
   )
 }
